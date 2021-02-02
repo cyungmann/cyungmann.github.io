@@ -1,1 +1,30 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+title: "Chris Yungmann"
+subtitle: "Personal Homepage"
+name: "Chris Yungmann"
+url: "https://chrisyungmann.com"
+repository: "cyungmann/cyungmann.github.io"
+minimal_mistakes_skin: "aqua"
+plugins:
+  - jekyll-include-cache
+locale: "en-US"
+author:
+  name: "Chris Yungmann"
+  bio: "I am a full-stack web developer specializing in ASP.NET and Angular development."
+  location: "Madison, WI"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cyungmann"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chris-y-425b8b46"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/9287029/chris-yungmann"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/pcchris"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCu54c-jbdAZS5NVywzdUClQ"
